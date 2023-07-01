@@ -4,10 +4,18 @@
   <nav class="bg-white-100 shadow">
     <div class="container mx-auto px-6 py-3">
       <div class="flex items-center justify-between">
-        <div class="flex items-center">
+        <!-- <div class="flex items-center">
           <h1 class="text-lg font-bold text-black font-montserrat">
             Logo Carsas
           </h1>
+        </div> -->
+
+        <div class="flex items-center">
+          <img
+            src="https://files.fm/thumb_show.php?i=qdz3uyzwz"
+            alt="Logo Carsas"
+            class="h-10"
+          />
         </div>
 
         <div class="flex items-center ml-20">
